@@ -99,8 +99,7 @@ void CheckOverlayPermission(JNIEnv *env, jclass thiz, jobject ctx){
             return;
         }
     }
-
-
+    
     LOGI(OBFUSCATE("Start service"));
 
     //StartMod Normal
@@ -113,7 +112,7 @@ void Init(JNIEnv *env, jobject thiz, jobject ctx, jobject title, jobject subtitl
 
     //Set sub title
     setText(env, subtitle, OBFUSCATE("<b><marquee><p style=\"font-size:30\">"
-                                     "<p style=\"color:green;\">The Walking Zombie 2 armv7 v3.37.0</p> | "
+                                     "<p style=\"color:green;\">The Walking Zombie 2 armv7 v3.47.0</p> | "
                                      "Modder by HunMod</p>"
                                      "</marquee></b>"));
 
