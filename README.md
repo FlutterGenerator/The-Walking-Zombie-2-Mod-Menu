@@ -1,6 +1,8 @@
 # The-Walking-Zombie-2-Mod-Menu
 [![The-Walking-Zombie-2-Mod-Menu Build](https://github.com/FlutterGenerator/The-Walking-Zombie-2-Mod-Menu/actions/workflows/build-apk.yml/badge.svg)](https://github.com/FlutterGenerator/The-Walking-Zombie-2-Mod-Menu/actions/workflows/build-apk.yml)
 
+[![License Info](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/The-Walking-Zembie-2-Mod-Menu/blob/master/LICENSE)
+
 # The Walking Zombie 2 Version: (203) – 3.47.0
 **Google Play Release Date:** 10 December 2025
 
